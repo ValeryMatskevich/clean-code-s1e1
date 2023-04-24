@@ -47,17 +47,17 @@
   display: flex;
 }
 
-.task__list {
+ul {
   margin: 0;
   padding: 0px;
 }
 
-.task__item {
+li {
   list-style: none;
 }
 
-.input,
-.button{
+input,
+button{
   outline: none;
 }
 
